@@ -1,0 +1,17 @@
+#language: pt
+#utf-8
+
+Funcionalidade: Cadastrar Usuário
+Eu como Administrador do Site
+Quero logar no sistema 
+Cadastrar um usuário
+
+Cenario: Realizar o cadastro 
+Dado que eu esteja na home do Site
+Quando preencher os campos de usuario e senha
+Então o sistema apresenta a home para cadastro
+
+
+
+
+		
